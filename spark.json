@@ -1,0 +1,7 @@
+{
+    "name": "Adafruit TLC59711",
+    "version": "1.0.0",
+    "author" : "Adafruit",
+    "license": "MIT",
+    "description": "Library for our Adafruit 12-channel PWM/LED driver."
+}
